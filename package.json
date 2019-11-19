@@ -1,0 +1,11 @@
+{
+  "name": "firebase-set-memleak",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^7.4.0",
+    "jest": "^24.9.0",
+    "weak": "^1.0.1"
+  }
+}
